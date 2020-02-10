@@ -1,0 +1,109 @@
+.title_header[data-v-4b0b2d58]{display:flex;flex-direction:row;align-items:center;background:grey;height:1.33333rem}.img_header[data-v-4b0b2d58]{width:.4rem;margin-left:.26667rem;margin-right:.26667rem}.title_header[data-v-4b0b2d58]{font-size:.48rem;font-weight:700}.content[data-v-4b0b2d58]{display:flex;flex-direction:row;align-items:center;border-bottom:1px solid #d3d3d3;padding:.53333rem .53333rem}.img_content[data-v-4b0b2d58]{width:1.86667rem;margin-right:.26667rem}.right_content[data-v-4b0b2d58]{display:flex;flex-direction:column;align-items:flex-start}.right_title[data-v-4b0b2d58]{font-size:.42667rem;font-weight:700}.right_subtitle[data-v-4b0b2d58]{font-size:.37333rem;color:grey;text-align:left}img[data-v-37647d61]{width:10rem}button[data-v-37647d61]{background:red;color:#fff}.van-nav-bar .van-icon[data-v-fd847528]{color:red;vertical-align:middle;margin-left:.26667rem}.red_bg[data-v-fd847528]{background:red}.red_color[data-v-fd847528]{color:red}.margin_right10[data-v-fd847528]{margin-right:.26667rem}.tip_bg[data-v-fd847528]{background:orange;padding:.53333rem 0 2.66667rem}.tip_bar[data-v-fd847528]{display:flex;flex-direction:row;justify-content:space-between;padding:0 .53333rem;background:orange}.tip_title[data-v-fd847528]{font-size:.42667rem;color:#fff;width:1.33333rem}.tip_left[data-v-fd847528]{flex:1}.tip_right[data-v-fd847528]{display:flex;flex-direction:row;align-items:center;flex:1;justify-content:flex-end}.right_clean[data-v-fd847528]{display:flex;flex-direction:row;align-items:center}.clean_text[data-v-fd847528]{font-size:.37333rem;color:#fff}.clean_img[data-v-fd847528]{width:.4rem}.right_edit[data-v-fd847528]{font-size:.42667rem;color:#fff;padding-left:.26667rem}.header[data-v-fd847528]{position:relative;height:5.46667rem;background:#f0f0f0}.content[data-v-fd847528]{display:flex;flex-direction:row;align-items:center;width:9.2rem;border-radius:.53333rem;justify-content:space-between;background:#fff;position:absolute;top:2.13333rem;left:.4rem;padding:.53333rem .53333rem;box-sizing:border-box}.content_menu[data-v-fd847528]{display:flex;flex-direction:column;align-items:center;width:1.86667rem;position:relative}.menu_img[data-v-fd847528]{width:1.06667rem}.menu_text[data-v-fd847528]{font-size:.4rem;font-weight:700}.unreadCount[data-v-fd847528]{position:absolute;top:-.08rem;right:.13333rem;background:red;color:#fff;width:.58667rem;height:.58667rem;line-height:.58667rem;text-align:center;border-radius:.29333rem;font-size:.32rem}.cell[data-v-fd847528]{border-bottom:.21333rem solid #f2f2f2}.cell_1[data-v-fd847528]{flex-direction:row;justify-content:space-between;padding:.26667rem .26667rem 0 .26667rem}.cell_1[data-v-fd847528],.cell_1_left[data-v-fd847528]{display:flex;align-items:center}.cell_1_left_img[data-v-fd847528]{width:.4rem;margin-right:.13333rem}.cell_1_left_span[data-v-fd847528]{font-size:.37333rem;font-weight:700}.cell_1_right_span[data-v-fd847528]{font-size:.34667rem;color:grey}.cell_2[data-v-fd847528]{display:flex;align-items:flex-start;margin-left:.53333rem;margin-top:.13333rem}.cell_2_img_div[data-v-fd847528]{display:flex;align-items:flex-start;width:.26667rem;height:.26667rem}.cell_2_img[data-v-fd847528]{width:.26667rem}.cell_2_span[data-v-fd847528]{font-size:.34667rem;font-weight:700}.cell_3[data-v-fd847528]{margin-top:.13333rem;padding-left:.8rem;padding-right:.26667rem}.cell_3_span[data-v-fd847528]{font-size:.29333rem;color:grey;margin-bottom:.26667rem}.body_content[data-v-fd847528]{padding-bottom:1.33333rem}.word[data-v-fd847528]{font-size:.37333rem;font-weight:500;color:#fff}.remove[data-v-fd847528]{width:2.4rem;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background-image:linear-gradient(-90deg,#fe4855,#f78768);padding:.13333rem 0}.cell_content[data-v-fd847528]{display:flex;flex-direction:row;align-items:center}.left_btn[data-v-fd847528]{padding-left:.26667rem}.left_btn_select[data-v-fd847528],.left_btn_unselect[data-v-fd847528]{width:.53333rem}.tool[data-v-fd847528]{display:flex;flex-direction:row;justify-content:space-between;border-top:1px solid #d3d3d3;padding:.34667rem .4rem;width:100%;position:fixed;bottom:0;box-sizing:border-box;background:#fff}.tool_left[data-v-fd847528]{display:flex;flex-direction:row;align-items:center}.tool_left_img[data-v-fd847528]{width:.4rem;padding-right:.08rem}.tool_left_span[data-v-fd847528]{font-size:.37333rem}.tool_right[data-v-fd847528]{display:flex;flex-direction:row;align-items:center}.btn_yidu[data-v-fd847528]{margin-right:.26667rem}.header[data-v-896a6e84]{background:#d3d3d3}.header_title[data-v-896a6e84]{padding:.13333rem 0 .13333rem .4rem}.photo[data-v-896a6e84]{padding-left:.4rem}.img[data-v-896a6e84]{width:.4rem;margin-right:.13333rem}.img_div2[data-v-896a6e84],.img_div[data-v-896a6e84]{display:flex;align-items:center;height:.64rem}.img_div2[data-v-896a6e84]{margin-top:1px}
+
+/*
+!!!注意!!!
+该文件定义了一些常量, 在需要使用的Vue文件中的<style>标签中导入, 
+@import '../assets/css/JQConst.less';
+注意: 需要改变后面的相对路径为自己的!
+
+    ➤可以简单理解: .less文件是.css的升级版
+    ➤使用表达式语法时,必须要添加空格. (例如:  @ScreenWidth - 45px)
+
+    
+    注意: 该文件放在main.js中是无效的, 放在App.vue文件中,在Vue文件中是不能使用常量的.
+    因为在main.js和App.vue文件中引入, 会把JQConst.less文件编译成单个文件,与vue文件是没有关联的, 还是需要在vue中重新导入带可以关联上.
+    所以, 需要在使用常量的Vue文件中引入.
+    
+    这里的基准就是375px, vue中使用到屏幕宽度的时候,不要直接写成375px,直接使用@w,方便维护.
+    这里的375px如果换成屏幕宽度100vw, 那么就不能使用@w-xpx了,因为计算的时候单位要一致!!!
+*/.mylist[data-v-336add37]{padding-bottom:1.33333rem;box-sizing:border-box;min-height:100vh;background:#f1f1f1}.header[data-v-336add37]{position:relative;height:6.26667rem}.hd_bg[data-v-336add37]{background:#efefef;padding-bottom:2.13333rem}.hd_top[data-v-336add37]{background:orange;padding-bottom:1.33333rem}.hd_content[data-v-336add37]{display:flex;flex-direction:row;justify-content:flex-start;padding-top:.8rem;padding-left:.93333rem}.hd_img[data-v-336add37],.hd_left[data-v-336add37]{width:1.86667rem;height:1.86667rem}.hd_right[data-v-336add37]{display:flex;flex-direction:column;align-items:flex-start;padding-left:.26667rem}.hd_span1[data-v-336add37]{font-size:.45333rem;color:#fff}.hd_span2[data-v-336add37]{font-size:.4rem;color:#fff;padding:.13333rem 0}.hd_span3[data-v-336add37]{font-size:.4rem;color:#fff}.card_bg[data-v-336add37]{justify-content:space-between;padding:0 .53333rem;background:#fff;border-radius:.53333rem;border:1px solid #d3d3d3;margin:0 .53333rem;position:absolute;bottom:.66667rem}.card_bg[data-v-336add37],.card_left[data-v-336add37]{display:flex;flex-direction:row;align-items:center}.cd_left_img[data-v-336add37]{width:.66667rem;padding-right:.26667rem}.cd_left_content[data-v-336add37]{display:flex;flex-direction:column;justify-content:flex-start}.cd_left_span1[data-v-336add37]{font-size:.4rem;font-weight:700}.cd_left_span2[data-v-336add37]{font-size:.45333rem;font-weight:700;color:orange;margin-right:.13333rem}.cd_left_span3[data-v-336add37]{font-size:.34667rem;color:grey}.cd_line[data-v-336add37]{width:1px;height:1.33333rem;margin:.53333rem .53333rem;background:#eaeaea}.cell[data-v-336add37]{padding-left:.53333rem}.cell_leftImg_div[data-v-336add37]{display:flex;align-items:center;height:.64rem}.cell_leftImg[data-v-336add37]{width:.53333rem;height:.53333rem;margin-top:2px;margin-right:.26667rem}.line[data-v-336add37]{width:8.8rem;height:1px;background:#f1f1f1;margin-left:1.2rem}.group1[data-v-336add37]{border-bottom:.26667rem solid #f1f1f1}.title_header[data-v-4042ce42]{background:#d3d3d3;height:1.33333rem;line-height:1.33333rem}.cell[data-v-4042ce42]{padding:.26667rem;border-bottom:1px solid grey}.cellTitle[data-v-4042ce42]{background:#add8e6}
+
+
+/*
+!!!注意!!!
+该文件定义了一些常量, 在需要使用的Vue文件中的<style>标签中导入, 
+@import '../assets/css/JQConst.less';
+注意: 需要改变后面的相对路径为自己的!
+
+    ➤可以简单理解: .less文件是.css的升级版
+    ➤使用表达式语法时,必须要添加空格. (例如:  @ScreenWidth - 45px)
+
+    
+    注意: 该文件放在main.js中是无效的, 放在App.vue文件中,在Vue文件中是不能使用常量的.
+    因为在main.js和App.vue文件中引入, 会把JQConst.less文件编译成单个文件,与vue文件是没有关联的, 还是需要在vue中重新导入带可以关联上.
+    所以, 需要在使用常量的Vue文件中引入.
+    
+    这里的基准就是375px, vue中使用到屏幕宽度的时候,不要直接写成375px,直接使用@w,方便维护.
+    这里的375px如果换成屏幕宽度100vw, 那么就不能使用@w-xpx了,因为计算的时候单位要一致!!!
+*/.line[data-v-e8753cbc]{width:9.6rem;height:1px;background:#f1f1f1;margin-left:.4rem}
+
+/*
+!!!注意!!!
+该文件定义了一些常量, 在需要使用的Vue文件中的<style>标签中导入, 
+@import '../assets/css/JQConst.less';
+注意: 需要改变后面的相对路径为自己的!
+
+    ➤可以简单理解: .less文件是.css的升级版
+    ➤使用表达式语法时,必须要添加空格. (例如:  @ScreenWidth - 45px)
+
+    
+    注意: 该文件放在main.js中是无效的, 放在App.vue文件中,在Vue文件中是不能使用常量的.
+    因为在main.js和App.vue文件中引入, 会把JQConst.less文件编译成单个文件,与vue文件是没有关联的, 还是需要在vue中重新导入带可以关联上.
+    所以, 需要在使用常量的Vue文件中引入.
+    
+    这里的基准就是375px, vue中使用到屏幕宽度的时候,不要直接写成375px,直接使用@w,方便维护.
+    这里的375px如果换成屏幕宽度100vw, 那么就不能使用@w-xpx了,因为计算的时候单位要一致!!!
+*/.lunbo[data-v-6806e611],img[data-v-6806e611]{width:10rem;height:5.33333rem;background:#d3d3d3}h5[data-v-6806e611],p[data-v-6806e611]{color:red}
+
+/*
+!!!注意!!!
+该文件定义了一些常量, 在需要使用的Vue文件中的<style>标签中导入, 
+@import '../assets/css/JQConst.less';
+注意: 需要改变后面的相对路径为自己的!
+
+    ➤可以简单理解: .less文件是.css的升级版
+    ➤使用表达式语法时,必须要添加空格. (例如:  @ScreenWidth - 45px)
+
+    
+    注意: 该文件放在main.js中是无效的, 放在App.vue文件中,在Vue文件中是不能使用常量的.
+    因为在main.js和App.vue文件中引入, 会把JQConst.less文件编译成单个文件,与vue文件是没有关联的, 还是需要在vue中重新导入带可以关联上.
+    所以, 需要在使用常量的Vue文件中引入.
+    
+    这里的基准就是375px, vue中使用到屏幕宽度的时候,不要直接写成375px,直接使用@w,方便维护.
+    这里的375px如果换成屏幕宽度100vw, 那么就不能使用@w-xpx了,因为计算的时候单位要一致!!!
+*/.flex_row2[data-v-1c95cb12]{display:flex;flex-direction:row;align-items:center;justify-content:space-between;height:5.33333rem;background:#d3d3d3;overflow:hidden}.flex_grow1[data-v-1c95cb12],.flex_grow3[data-v-1c95cb12]{flex-grow:1;text-align:center}.flex_grow3[data-v-1c95cb12]{align-self:flex-end}.v_hidden[data-v-1c95cb12]{width:10rem;height:8rem;word-wrap:break-word}
+
+/*
+!!!注意!!!
+该文件定义了一些常量, 在需要使用的Vue文件中的<style>标签中导入, 
+@import '../assets/css/JQConst.less';
+注意: 需要改变后面的相对路径为自己的!
+
+    ➤可以简单理解: .less文件是.css的升级版
+    ➤使用表达式语法时,必须要添加空格. (例如:  @ScreenWidth - 45px)
+
+    
+    注意: 该文件放在main.js中是无效的, 放在App.vue文件中,在Vue文件中是不能使用常量的.
+    因为在main.js和App.vue文件中引入, 会把JQConst.less文件编译成单个文件,与vue文件是没有关联的, 还是需要在vue中重新导入带可以关联上.
+    所以, 需要在使用常量的Vue文件中引入.
+    
+    这里的基准就是375px, vue中使用到屏幕宽度的时候,不要直接写成375px,直接使用@w,方便维护.
+    这里的375px如果换成屏幕宽度100vw, 那么就不能使用@w-xpx了,因为计算的时候单位要一致!!!
+*/.top[data-v-49f1e16e]{background:#233d87;padding:.26667rem .26667rem .26667rem .26667rem}.top_img_div[data-v-49f1e16e]{height:.66667rem}.top_img[data-v-49f1e16e]{height:.4rem}.top_search_div[data-v-49f1e16e]{flex-grow:1;height:.66667rem;overflow:hidden;display:flex;margin-left:1.33333rem;justify-content:flex-end}.search_div_left[data-v-49f1e16e]{height:.66667rem;display:flex;align-items:center;padding-left:.26667rem}.search[data-v-49f1e16e]{flex-grow:1;padding-left:0}.top_loginBtn[data-v-49f1e16e]{font-size:.37333rem;color:#fff}.search_img[data-v-49f1e16e]{width:.26667rem}.van-cell[data-v-49f1e16e]{font-size:.29333rem}.van-search__content[data-v-49f1e16e]{background-color:#f9fafc}.top2[data-v-49f1e16e]{padding-top:.26667rem}.tab_div[data-v-49f1e16e]{width:9.46667rem;padding-right:.26667rem}.menu_img_div[data-v-49f1e16e]{height:.8rem;display:flex;align-items:center;justify-content:center}.menu_img[data-v-49f1e16e]{width:.53333rem}.lunbo_img[data-v-49f1e16e]{width:10rem;height:5.33333rem;background:#d3d3d3}.daiban_img[data-v-49f1e16e]{width:.8rem;height:.8rem;padding-left:.18667rem}.daiban_span1[data-v-49f1e16e]{font-size:.48rem;color:#0ed3b9;font-weight:700;margin-bottom:.13333rem}.daiban_span2[data-v-49f1e16e]{width:2.4rem;font-size:.4rem;color:#fff}.daiban_color[data-v-49f1e16e]{background:#2b58a9;padding:.53333rem;border-radius:.26667rem}.col1_div[data-v-49f1e16e]{margin-right:.26667rem}.col1_div[data-v-49f1e16e],.col2_div[data-v-49f1e16e]{flex-grow:1;margin-bottom:.26667rem;width:4.73333rem;height:1.6rem}.v_fontSize[data-v-49f1e16e]{font-size:.26667rem;color:grey;background:rgba(43,88,169,0)}.v_fontSizeRadius[data-v-49f1e16e]{font-size:.29333rem;color:#fff;border-radius:.53333rem;background:#14b3e4}.relative[data-v-49f1e16e]{position:relative}.absolute[data-v-49f1e16e]{max-width:.8rem;position:absolute;right:.4rem;padding:0 .18667rem;border-radius:.53333rem;overflow:hidden}.W100[data-v-49f1e16e]{width:100%;height:5.33333rem;overflow-x:scroll;scroll-behavior:smooth;white-space:nowrap}.W80h200[data-v-49f1e16e]{width:90%;height:5.33333rem;display:inline-block}.van-cell:not(:last-child):after{left:0;border-bottom:none}.van-nav-bar{background-color:#f57308}.van-nav-bar__title{color:#fff}.van-nav-bar .van-icon,.van-nav-bar__text{color:#f7f8fa}.flex_row{display:flex;flex-direction:row}.flex_row_center,.flex_row_center_space-between{display:flex;flex-direction:row;align-items:center}.flex_row_center_space-between{justify-content:space-between}.flex_row_center_space-around{display:flex;flex-direction:row;align-items:center;justify-content:space-around}.flex_row_end,.flex_row_start{display:flex;flex-direction:row;align-items:flex-start}.flex_col,.flex_col_center{display:flex;flex-direction:column}.flex_col_center{align-items:center}.flex_col_center_space-between{display:flex;flex-direction:column;align-items:center;justify-content:space-between}.flex_col_end,.flex_col_start{display:flex;flex-direction:column;align-items:flex-start}.flex_grow1{flex-grow:1}.radius5{border-radius:.13333rem}.radius10{border-radius:.26667rem}.radius20{border-radius:.53333rem}.radius30{border-radius:.8rem}.red{background:red}.green{background:green}.blue{background:#00f}.yellow{background:#ff0}.orange{background:orange}.white{background:#fff}.lineColor{background:#f1f1f1}.darkBlue1{background:#233d87}.darkBlue2{background:#121d4d}.font10,.fontBold10{font-size:.26667rem}.fontBold10{font-weight:700}.font11,.fontBold11{font-size:.29333rem}.fontBold11{font-weight:700}.font12,.fontBold12{font-size:.32rem}.fontBold12{font-weight:700}.font13,.fontBold13{font-size:.34667rem}.fontBold13{font-weight:700}.font14,.fontBold14{font-size:.37333rem}.fontBold14{font-weight:700}.font15,.fontBold15{font-size:.4rem}.fontBold15{font-weight:700}.font16,.fontBold16{font-size:.42667rem}.fontBold16{font-weight:700}.font17,.fontBold17{font-size:.45333rem}.fontBold17{font-weight:700}.font18,.fontBold18{font-size:.48rem}.fontBold18{font-weight:700}.font19,.fontBold19{font-size:.50667rem}.fontBold19{font-weight:700}.font20,.fontBold20{font-size:.53333rem}.fontBold20{font-weight:700}.fontWhite{color:#fff}.fontBlack{color:#000}.img10{width:.26667rem;height:.26667rem}.img15{width:.4rem;height:.4rem}.img20{width:.53333rem;height:.53333rem}.img30{width:.8rem;height:.8rem}.img60{width:1.6rem;height:1.6rem}.img80{width:2.13333rem;height:2.13333rem}.img100{width:2.66667rem;height:2.66667rem}.img_div20{height:.53333rem}.img_div20,.img_div30{display:flex;align-items:center;justify-content:center}.img_div30{height:.8rem}.img_div40{height:1.06667rem}.img_div40,.img_div50{display:flex;align-items:center;justify-content:center}.img_div50{height:1.33333rem}.margin10{margin:.26667rem}.margin15{margin:.4rem}.margin20{margin:.53333rem}.marginL10{margin-left:.26667rem}.marginR10{margin-right:.26667rem}.marginT10{margin-top:.26667rem}.marginB10{margin-bottom:.26667rem}.marginL15{margin-left:.4rem}.marginR15{margin-right:.4rem}.marginT15{margin-top:.4rem}.marginB15{margin-bottom:.4rem}.marginL20{margin-left:.53333rem}.marginR20{margin-right:.53333rem}.marginT20{margin-top:.53333rem}.marginB20{margin-bottom:.53333rem}.marginLR10{margin:0 .26667rem}.marginTB10{margin:.26667rem 0}.marginLR15{margin:0 .4rem}.marginTB15{margin:.4rem 0}.marginLR20{margin:0 .53333rem}.marginTB20{margin:.53333rem 0}.paddingL10{padding-left:.26667rem}.paddingR10{padding-right:.26667rem}.paddingT10{padding-top:.26667rem}.paddingB10{padding-bottom:.26667rem}.paddingL15{padding-left:.4rem}.paddingR15{padding-right:.4rem}.paddingT15{padding-top:.4rem}.paddingB15{padding-bottom:.4rem}.paddingL20{padding-left:.53333rem}.paddingR20{padding-right:.53333rem}.paddingT20{padding-top:.53333rem}.paddingB20{padding-bottom:.53333rem}.paddingLR10{padding:0 .26667rem}.paddingTB10{padding:.26667rem 0}.paddingLR15{padding:0 .4rem}.paddingTB15{padding:.4rem 0}.paddingLR20{padding:0 .53333rem}.paddingTB20{padding:.53333rem 0}.padding10{padding:.26667rem}.padding15{padding:.4rem}.padding20{padding:.53333rem}.paddingLR10TB10{padding:.26667rem .26667rem}.paddingLR15TB15{padding:.4rem .4rem}.paddingTB10LR15{padding:.26667rem .4rem}.paddingTB15LR10{padding:.4rem .26667rem}
+/*
+!!!注意!!!
+该文件定义了一些常量, 在需要使用的Vue文件中的<style>标签中导入, 
+@import '../assets/css/JQConst.less';
+注意: 需要改变后面的相对路径为自己的!
+
+    ➤可以简单理解: .less文件是.css的升级版
+    ➤使用表达式语法时,必须要添加空格. (例如:  @ScreenWidth - 45px)
+
+    
+    注意: 该文件放在main.js中是无效的, 放在App.vue文件中,在Vue文件中是不能使用常量的.
+    因为在main.js和App.vue文件中引入, 会把JQConst.less文件编译成单个文件,与vue文件是没有关联的, 还是需要在vue中重新导入带可以关联上.
+    所以, 需要在使用常量的Vue文件中引入.
+    
+    这里的基准就是375px, vue中使用到屏幕宽度的时候,不要直接写成375px,直接使用@w,方便维护.
+    这里的375px如果换成屏幕宽度100vw, 那么就不能使用@w-xpx了,因为计算的时候单位要一致!!!
+*/.lr0[data-v-3656803f]{width:10rem;height:1px;background:#f1f1f1}.lr10[data-v-3656803f]{width:9.46667rem;height:1px;background:#f1f1f1;margin-left:.26667rem}.lr15[data-v-3656803f]{width:9.2rem;height:1px;background:#f1f1f1;margin-left:.4rem}.lr20[data-v-3656803f]{width:8.93333rem;height:1px;background:#f1f1f1;margin-left:.53333rem}.l10r0[data-v-3656803f]{width:9.73333rem}.l10r0[data-v-3656803f],.l10r10[data-v-3656803f]{height:1px;background:#f1f1f1;margin-left:.26667rem}.l10r10[data-v-3656803f]{width:9.46667rem}.l15r0[data-v-3656803f]{width:9.6rem;height:1px;background:#f1f1f1;margin-left:.4rem}.l15r15[data-v-3656803f]{width:9.2rem;height:1px;background:#f1f1f1;margin-left:.4rem}.l20r0[data-v-3656803f]{width:9.46667rem}.l20r0[data-v-3656803f],.l20r20[data-v-3656803f]{height:1px;background:#f1f1f1;margin-left:.53333rem}.l20r20[data-v-3656803f]{width:8.93333rem}
